@@ -21,13 +21,4 @@ ratings.
 
 
 
-wirefram and mockup link : https://www.figma.com/file/kxWU3xaPrIA6qgxYd1z93q/BudgetExplorerBookings?type=design&node-id=0-1&mode=design&t=Invt5GRtWBUOq4fv-0
-
-
-
-
-
-
-
-
-https://www.figma.com/file/kxWU3xaPrIA6qgxYd1z93q/BudgetExplorerBookings?type=design&node-id=0-1&mode=design&t=Invt5GRtWBUOq4fv-0
+<h1>wirefram and mockup link :</h1> https://www.figma.com/file/kxWU3xaPrIA6qgxYd1z93q/BudgetExplorerBookings?type=design&node-id=0-1&mode=design&t=Invt5GRtWBUOq4fv-0
